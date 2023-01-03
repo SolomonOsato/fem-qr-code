@@ -73,7 +73,7 @@ main {
 
 .qr-component {
   width: clamp(15rem, 80%, 30rem);
-  max-width: 500px;
+  max-width: 400px;
   margin-inline: auto;
   border-radius: 1em;
   padding: 1em 1em 3em;
